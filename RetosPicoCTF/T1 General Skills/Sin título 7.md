@@ -1,4 +1,3 @@
-# Reto
 ## Descripción
 
 ## Solución
